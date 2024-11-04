@@ -114,9 +114,9 @@ termcolor==2.5.0
 threadpoolctl==3.5.0
 tifffile==2024.9.20
 tomli==2.0.2
-torch==2.4.0+cu124
-torchaudio==2.4.0+cu124
-torchvision==0.19.0+cu124
+torch==2.4.0  # 更新为 CPU 版本
+torchaudio==2.4.0  # 更新为 CPU 版本
+torchvision==0.19.0  # 更新为 CPU 版本
 tornado==6.4.1
 tortoise-orm==0.21.7
 tqdm==4.66.6
