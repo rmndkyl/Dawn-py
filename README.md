@@ -1,5 +1,5 @@
 # Dawn Extension Bot [1.5] 本地模型识别
-# 原作者https://github.com/Jaammerr/The-Dawn-Bot 防止正义人士
+# 原作者https://github.com/Jaammerr/The-Dawn-Bot 
 
 ## 🚀 功能
 
